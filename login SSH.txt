@@ -1,0 +1,29 @@
+https://github.com/rancher/fleet-exemple.git
+
+login: 31.220.79.175
+tJHw5NA+77
+
+Successfully received certificate.
+Certificate is saved at: /etc/letsencrypt/live/rancher.cluster.cinaf.tv-0001/fullchain.pem
+Key is saved at:         /etc/letsencrypt/live/rancher.cluster.cinaf.tv-0001/privkey.pem
+This certificate expires on 2025-06-23.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+192.168.1.114
+
+
+installation docker rancher RKE, ingnix avec configutation cert manager, TLS et certificat SSL sur Ubuntu
+installation docker rancher avec configutation cert manager, TLS et certificat SSL SSH sur Ubuntu
+
+
+rancher.cluster.cinaf.tv
+7LQUOt3Jwf4HNldN
+
+nano k3s.sh
+./k3s.sh
+chmod +x k3s.sh
+
+nano update-rancher.sh
+./update-rancher.sh
+chmod +x update-rancher.sh

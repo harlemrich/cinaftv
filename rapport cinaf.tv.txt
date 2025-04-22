@@ -1,0 +1,41 @@
+ 03-02-25
+
+rapport de la journée sur le site cinaf.tv
+
+au niveau de l'Acceuil tout semble bien fonctionner
+partager: OK
+liker : OK
+favories : OK
+
+au niveau du Teasers
+son : OK
+flèches (bas haut): OK
+liker : X
+partage : OK
+favories : possible unique sur l'application mobile (pas normal) le client devrait etre capable rajouter dans les favories ses paries preferés des Teasers
+telechargement : X
+
+au niveau des Films
+Il y a des temps d'arret tres longue, il peut s'agir peut-etre d'un probleme de connection
+On arrive pas a lire un film normalement, obliger de rafraichir la page
+
+au niveau de Ma Liste : OK
+
+au niveau de Nouveautés
+Son : X
+la video de presentation charge pas assez vite, ca des temps d'arrets long, la page ne charge pas assez vite meme etant en FAST 4G
+
+au niveau du Trailer
+son : OK
+chargement de la page : tres lente
+
+a partir de l'URL on peut fais des recherches sur le Teasers ainsi que pour les films (pas normal)
+lors d'une recherche d'un film a partie de l'URL, il est renvoyer un code 504 
+le site charge pas assez vite en dessous de 4G, il y a un bug au niveau de la connectivité du client
+
+*Visionnage
+Il y a des arret lors du visionnage d'un media malgrer qu'il y a la connexion (Series, Teasers, Films, Nouveauté)
+
+*Suggestion
+il devait avoir la possibilité de choisir la resoulution de la video, et aussi mettre le temps ecoulé, temps restant et le temps colplet de la video (pour les films et videos, teasers (exceptionnelle))
+et pour le volume, la jauge du volume devrait etre en vertical pas a l'horizontal

@@ -1,0 +1,16 @@
+Username : cinaftvseries
+Hostname : storage.bunnycdn.com
+Port : 21
+Password : 69df480c-f17a-46e9-b0bfe18fe4dd-0fbe-47a5
+
+
+Username : cinaftvfilms
+Hostname : storage.bunnycdn.com
+Password : 569e761b-657a-4f19-a3ab06f14cd7-9727-4af1
+Port : 21
+
+
+Username : cinaftv-movies
+Hostname : storage.bunnycdn.com
+Password : 10ba678b-a2c8-4f1b-bf09152c9a46-5880-429b
+Port : 21

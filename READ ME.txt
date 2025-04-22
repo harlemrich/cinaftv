@@ -1,0 +1,3 @@
+chmod +x k3s.sh
+sudo ./k3s.sh
+nano k3s
